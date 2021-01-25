@@ -1,7 +1,5 @@
 # Untitled
 
-
-
 ### **201008: PRATT SOA MEETING NOTES**
 
 ####  **WEBSITE NOTES:**
