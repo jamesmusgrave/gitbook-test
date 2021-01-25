@@ -11,6 +11,8 @@
 [**https://drive.google.com/drive/folders/1F8urxpS11CGi1-PeW6S2DNnauQQSB7EF**](https://drive.google.com/drive/folders/1F8urxpS11CGi1-PeW6S2DNnauQQSB7EF)  
 ****
 
+![test](.gitbook/assets/tumblr_f0a9419758eff33dddcbc030370b02a6_176d37a3_1280.jpg)
+
 #### **LECTURE SERIES POSTER:**
 
 **This is the current list of participants in the FA2020 SoA lecture series.**  
