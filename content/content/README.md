@@ -1,4 +1,4 @@
-# Group Page
+# Content
 
 ## Getting Super Powers
 

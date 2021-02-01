@@ -1,9 +1,10 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [Yrdy sUntitled](yrdy-suntitled.md)
 
-## Group Test
+## Content
 
-* [Group Page](group-test/group-page.md)
+* [Content](content/content/README.md)
+  * [Untitled](content/content/untitled.md)
+  * [Yrdy sUntitled](content/content/yrdy-suntitled.md)
 
