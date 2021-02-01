@@ -42,7 +42,7 @@ Yes, after a few months we finally found the answer. Sadly, Mike is on vacations
 {% endapi-method-spec %}
 {% endapi-method %}
 
-![iohoiuh](.gitbook/assets/tumblr_oudtqb7gi31qmxl2lo1_1280.png)
+![iohoiuh](../.gitbook/assets/tumblr_oudtqb7gi31qmxl2lo1_1280.png)
 
 
 
