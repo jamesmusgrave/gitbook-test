@@ -4,6 +4,6 @@
 
 ## Content
 
-* [Yrdy sUntitled](content/yrdy-suntitled.md)
+* [Yes](content/yrdy-suntitled.md)
 * [Group Page](content/group-page.md)
 
